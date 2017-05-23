@@ -1,0 +1,4 @@
+Building LumiCoin
+See doc/readme-qt.rst for instructions on building LumiCoin QT.
+
+See doc/build-*.txt for instructions on building lumicoind.
